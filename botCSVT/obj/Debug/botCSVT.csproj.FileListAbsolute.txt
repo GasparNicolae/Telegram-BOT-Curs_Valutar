@@ -1,0 +1,13 @@
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\bin\Debug\botCSVT.exe.config
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\bin\Debug\botCSVT.exe
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\bin\Debug\botCSVT.pdb
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\bin\Debug\Telegram.Bot.dll
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\bin\Debug\Telegram.Bot.xml
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\obj\Debug\botCSVT.csprojAssemblyReference.cache
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\obj\Debug\botCSVT.csproj.CoreCompileInputs.cache
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\obj\Debug\botCSVT.csproj.CopyComplete
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\obj\Debug\botCSVT.exe
+C:\Users\nicu_\Desktop\botCSVT\botCSVT\obj\Debug\botCSVT.pdb
