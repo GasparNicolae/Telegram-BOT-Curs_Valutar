@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -85,7 +85,7 @@ namespace botCSVT
 
     class Robot
     {
-        private static readonly TelegramBotClient Bot = new TelegramBotClient("741572773:AAH4ZdtR3Yssmj3cj3TILkuRCEsRXH-qw5c");
+        private static readonly TelegramBotClient Bot = new TelegramBotClient("TOKEN");
 
 
         static void Main(string[] args)
